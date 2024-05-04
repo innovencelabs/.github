@@ -7,11 +7,11 @@ Innovence's product garage houses a collection of innovative open-source tools d
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Issues</b></td>
-      <td><b>Pull requests</b></td>
+      <td><b>Project</b></td>
+      <td><b>Star</b></td>
+      <td><b>Fork</b></td>
+      <td><b>Issue</b></td>
+      <td><b>Pull request</b></td>
     </tr>
   </thead>
   <tbody>
