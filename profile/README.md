@@ -2,7 +2,7 @@
 Innovence's product garage houses a collection of innovative open-source tools designed to streamline everyday life. We believe in harnessing technology's transformative power to empower individuals globally.
 <br/>
 
-<h3>Open source projects</h3>
+<h3>Product Garage</h3>
 <table>
   <thead align="center">
     <tr border: none;>
