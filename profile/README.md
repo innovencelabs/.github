@@ -1,4 +1,3 @@
-# Innovence <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 Innovence's product garage houses a collection of innovative open-source tools designed to streamline everyday life. We believe in harnessing technology's transformative power to empower individuals globally.
 <br/>
 
