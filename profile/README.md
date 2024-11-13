@@ -25,7 +25,7 @@ Innovence's product garage houses a collection of innovative tools designed to s
   </tbody>
 </table>
 
-<h4>ByteShare Repositories</h4>
+<h4>Product Repositories</h4>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -36,7 +36,7 @@ Innovence's product garage houses a collection of innovative tools designed to s
   <tbody>
     <tr>
       <td><a href="https://github.com/innovencelabs/byteshare"><b>ByteShare</b></a></td>
-      <td>👑 ByteShare application</td>
+      <td>ByteShare codebase</td>
     </tr>
   </tbody>
 </table>
