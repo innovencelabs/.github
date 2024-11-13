@@ -24,19 +24,3 @@ Innovence's product garage houses a collection of innovative tools designed to s
     </tr>
   </tbody>
 </table>
-
-<h3>Product Repositories</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Name</b></td>
-      <td><b>Description </b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/innovencelabs/byteshare"><b>ByteShare</b></a></td>
-      <td>Codebase of ByteShare</td>
-    </tr>
-  </tbody>
-</table>
