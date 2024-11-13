@@ -38,9 +38,5 @@ Innovence's product garage houses a collection of innovative tools designed to s
       <td><a href="https://github.com/innovencelabs/byteshare"><b>ByteShare</b></a></td>
       <td>👑 ByteShare application</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/innovencelabs/byteshare-moderation"><b>ByteShare Moderation</b></a></td>
-      <td>🛡️ Content Moderation for ByteShare</td>
-    </tr>
   </tbody>
 </table>
