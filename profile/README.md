@@ -16,7 +16,7 @@ Innovence's product garage houses a collection of innovative tools designed to s
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://byteshare.io"><b>ByteShare</b></a></td>
+      <td><a href="https://byteshare.io"><b>ByteShare.io</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
@@ -25,7 +25,7 @@ Innovence's product garage houses a collection of innovative tools designed to s
   </tbody>
 </table>
 
-<h4>Product Repositories</h4>
+<h3>Product Repositories</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -36,7 +36,7 @@ Innovence's product garage houses a collection of innovative tools designed to s
   <tbody>
     <tr>
       <td><a href="https://github.com/innovencelabs/byteshare"><b>ByteShare</b></a></td>
-      <td>ByteShare codebase</td>
+      <td>Codebase of ByteShare</td>
     </tr>
   </tbody>
 </table>
